@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
-from pprint import PrettyPrinter
 from sys import argv
-import os
 from sqlalchemy import create_engine, Table, MetaData
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.sql import select
