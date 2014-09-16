@@ -1,0 +1,5 @@
+GeoAlchemy2==0.2.4
+SQLAlchemy==0.9.7
+gnureadline==6.3.3
+psycopg2==2.5.4
+wsgiref==0.1.2
